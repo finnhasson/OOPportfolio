@@ -1,6 +1,6 @@
 
 # OOP 2024 Portfolio
-## Your Name
+## finn hasson-wells
 ### Your Group
 ### Your Tutor
 
