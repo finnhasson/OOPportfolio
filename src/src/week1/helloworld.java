@@ -1,4 +1,4 @@
-package WeeklyExercises;
+package week1;
 
 public class helloworld
 {
@@ -9,4 +9,3 @@ public class helloworld
     {
         System.out.println ("An Emergency broadcast");
     }
-}
